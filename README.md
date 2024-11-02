@@ -1,26 +1,36 @@
-# 🏰 **Code Dungeon 2024**
+# voice recognition project
+> just another speech recognition thing...
 
-> *Transform coding tasks into epic quests!*
+![tired frog](frog.gif)
 
-## 🎮 **Quest Log**
-- **🧩 Quest 1:** Decode Speech
-- **🛡️ Quest 2:** Secure the Vault
-- **⚔️ More Quests Coming Soon...**
+files:
+- `Voice-access.py` - voice recognition... whatever
+- `Voice-chat-app.py` - talking to machines... great
 
-## ⚡ **Getting Started**
-1. **Clone**: 🗂️ Download the files.
-2. **Install**: ⚙️ Run `pip install -r requirements.txt`.
-3. **Start**: 🚀 Dive into the code.
+install these first...
+```bash
+pip install speech_recognition
+pip install pyttsx3
+pip install pyaudio
+```
 
-## 🧙‍♂️ **Skills Needed**
-- **🐍 Python Sorcery**
-- **🔧 Debugging Ninja**
-- **💻 System Hacking**
+run if you want...
+```bash
+python Voice-access.py
+# or
+python Voice-chat-app.py
+```
 
-## 🏆 **Progress Tracker**
-- **[✓] Task 1:** Completed
-- **[✓] Task 2:** Completed
-- **[ ] Final Challenge:** Coming Soon...
+needs:
+- python 3
+- microphone (to talk to void)
+- speakers (to hear void)
+- will to speak
 
-> *“Every bug fixed is a step forward.”*  
-*Created by [i hate my life]*
+known issues:
+- might not hear you (like everyone else)
+- might break
+- might work (somehow)
+
+---
+created at 3am by someone who talks to computers
