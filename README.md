@@ -7,27 +7,27 @@ files:
 - `Voice-access.py` - voice recognition... whatever
 - `Voice-chat-app.py` - talking to machines... great
 
-install these first...
+##install these first...
 ```bash
 pip install speech_recognition
 pip install pyttsx3
 pip install pyaudio
 ```
 
-run if you want...
+##run if you want...
 ```bash
 python Voice-access.py
 # or
 python Voice-chat-app.py
 ```
 
-needs:
+##needs:
 - python 3
 - microphone (to talk to void)
 - speakers (to hear void)
 - will to speak
 
-known issues:
+##known issues:
 - might not hear you (like everyone else)
 - might break
 - might work (somehow)
