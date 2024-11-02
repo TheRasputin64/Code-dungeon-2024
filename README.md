@@ -21,13 +21,13 @@ python Voice-access.py
 python Voice-chat-app.py
 ```
 
-needs:
+###needs:
 - python 3
 - microphone (to talk to void)
 - speakers (to hear void)
 - will to speak
 
-known issues:
+###known issues:
 - might not hear you (like everyone else)
 - might break
 - might work (somehow)
