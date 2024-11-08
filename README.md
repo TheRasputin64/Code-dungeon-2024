@@ -1,6 +1,5 @@
 # voice recognition project
 > just another speech recognition thing...
-
 ![tired frog](frog.gif)
 
 files:
@@ -34,3 +33,17 @@ python Voice-chat-app.py
 
 ---
 *created at 3am by someone who talks to computers*
+
+# What's new (unfortunately):
+- added `audio_processor.py` - now you can avoid talking in real-time... great
+- more dependencies (because we needed those):
+  ```bash
+  pip install transformers
+  pip install librosa
+  pip install numpy
+  ```
+- accepts audio files (WAV/MP3) for those who prefer pre-recorded emptiness
+- might actually understand you (scary)
+
+---
+*updated at 4am by the same person who now lets computers read their audio files*
